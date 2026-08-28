@@ -1,0 +1,33 @@
+body {
+display: flex;
+justify-content: center;
+text-align: center;
+font-family: Arial, sans-serif;
+background-color: aqua;
+}
+
+.todobox {
+    background-color: bisque;
+    padding: 20px 30px;
+    border-radius: 15px;
+box-shadow: 0 0 15px;
+
+}
+#todo {
+border-radius: 7px;
+background-color: rgb(252, 252, 252);
+}
+#butt {
+background-color: rgb(173, 245, 101);
+border-radius: 4px;
+}
+#li {
+    background-color: white;
+    
+}
+.delete-Btn{
+background-color: bisque;
+border-radius: 4px;
+margin: 15px;
+
+}
